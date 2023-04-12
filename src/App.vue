@@ -5,9 +5,6 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <div>
-    333333333
-  </div>
   <HelloWorld msg="Vite + Vue" />
   <div>1111</div>
 </template>
